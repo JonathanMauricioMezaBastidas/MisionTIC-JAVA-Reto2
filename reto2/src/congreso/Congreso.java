@@ -67,7 +67,7 @@ public class Congreso {
         } while (opc != 3);
 
     }
-    // FUNCIÓN PRINCIPAL
+    // Función Principal
     public static void main(String[] args) {
         Congreso congreso1 = new Congreso("Congreso Nacional de Computacion");
         congreso1.procesarComandos();
